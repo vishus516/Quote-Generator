@@ -1,0 +1,7 @@
+{
+    "liveServer.settings.useLocalIp": true,
+    "liveServer.settings.CustomBrowser": "firefox",
+    "liveServer.settings.fullReload": true,
+    "liveServer.settings.port": 0
+
+}
